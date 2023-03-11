@@ -1,3 +1,5 @@
-body{
-    background-color: rgba(0, 26, 255, 0.963);
+.bg-blue{
+    background-color: blue;
+    color: white;  
+    /* here color is for text color */
 }
